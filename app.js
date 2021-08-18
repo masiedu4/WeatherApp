@@ -55,6 +55,6 @@ window.addEventListener("load", () => {
         });
     }
 
-    function setIcons(icon)
+
 
 });
